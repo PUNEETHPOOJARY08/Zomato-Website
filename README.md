@@ -1,2 +1,2 @@
-# Zomata-repo
+# Zomata
  Simple Zomato website
