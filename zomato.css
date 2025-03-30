@@ -45,7 +45,8 @@ header{
 
 }
 .logo{
-    width: 20vh;
+    width: 40vh;
+    height: 20vh;
 }
 .head h3{
     font-size: 2.1em;
@@ -347,7 +348,7 @@ padding-right: 10px;
     height: 32px;
 }
 .sec-7{
-    pad: 40px 120px;
+    padding: 40px 120px;
     background-color: rgb(244,244,253);
 }
 .first{
@@ -381,10 +382,10 @@ padding-right: 10px;
   display: inline-block;
   width: 200px;
   margin-bottom: 7px;
-white-space: nowrap;
-text-decoration: none;
-color: gray;
-font-size: 0.9rem;
+  white-space: nowrap;
+  text-decoration: none;
+  color: gray;
+  font-size: 0.9rem;
 }
 .second img{
   width: 137px;
@@ -395,11 +396,14 @@ font-size: 0.9rem;
 .box-4{
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
 }
 .box-4 i{
     margin-left: 5px;
     margin-bottom: 5px;
 }
+
 .third{
     padding: 10px 0;
     color: gray;
