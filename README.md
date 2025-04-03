@@ -1,2 +1,2 @@
 # Zomata
- Simple Zomato website
+ Simple Front-end Zomato website
