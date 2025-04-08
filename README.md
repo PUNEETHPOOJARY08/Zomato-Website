@@ -1,2 +1,3 @@
 # Zomata
- Simple Zomato website
+Simple Zomato Front-end website
+Using CSS And HTML

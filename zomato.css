@@ -335,6 +335,8 @@ padding-right: 10px;
     font-size: 0.3rem;
     padding: 6px 5px;
     color: gray;
+    justify-content: center;
+    align-items: center;
 }
 .end-column a{
     width: 190px;
@@ -388,7 +390,7 @@ padding-right: 10px;
   font-size: 0.9rem;
 }
 .second img{
-  width: 137px;
+  width: 180px;
   height: 40px;
   margin-top: 11px;
   cursor: pointer;
